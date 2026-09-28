@@ -73,11 +73,6 @@ server/
 └── dump        # Persisted database snapshot
 ```
 
-## Roadmap
-
-- [ ] Implement more Redis commands
-- [ ] Add connection timeouts and buffer limits
-
 ## Author
 
 K Rajeev
